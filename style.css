@@ -72,10 +72,25 @@ span{
   border-radius: 8px;
   font-size: 20px;
   border: none;
+  color:white;
   /*width:50px;
   margin: 0 auto ;*/
  
 }
+#button-style1{
+  background-color: tomato;
+  padding: 15px 20px;
+  margin-top: 5px;
+  margin-left:44% ;
+  border-radius: 8px;
+  font-size: 20px;
+  border: none;
+  color:white;
+  /*width:50px;
+  margin: 0 auto ;*/
+ 
+}
+
  #text-align{
   color:gray;
  }
